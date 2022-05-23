@@ -1,0 +1,16 @@
+{
+  "name": "dumper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dumpbd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "fs": "0.0.1-security",
+    "mysqldump": "^3.2.0"
+  }
+}
